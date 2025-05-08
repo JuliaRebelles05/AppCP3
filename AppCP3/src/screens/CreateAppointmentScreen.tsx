@@ -38,31 +38,31 @@ interface Doctor {
 const availableDoctors: Doctor[] = [
   {
     id: '1',
-    name: 'Dr. João Silva',
+    name: 'Dr. Wesley Gonzaga',
     specialty: 'Cardiologia',
     image: 'https://randomuser.me/api/portraits/men/1.jpg',
   },
   {
     id: '2',
-    name: 'Dra. Maria Santos',
+    name: 'Dra. Joana Ribeiro',
     specialty: 'Pediatria',
     image: 'https://randomuser.me/api/portraits/women/1.jpg',
   },
   {
     id: '3',
-    name: 'Dr. Pedro Oliveira',
+    name: 'Dr. Roberto Carlos',
     specialty: 'Ortopedia',
     image: 'https://randomuser.me/api/portraits/men/2.jpg',
   },
   {
     id: '4',
-    name: 'Dra. Ana Costa',
+    name: 'Dra. Julia Costa',
     specialty: 'Dermatologia',
     image: 'https://randomuser.me/api/portraits/women/2.jpg',
   },
   {
     id: '5',
-    name: 'Dr. Carlos Mendes',
+    name: 'Dr. Hugo Sousa',
     specialty: 'Oftalmologia',
     image: 'https://randomuser.me/api/portraits/men/3.jpg',
   },

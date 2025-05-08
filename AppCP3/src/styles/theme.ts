@@ -1,9 +1,9 @@
 export default {
     colors: {
-       primary: '#4A90E2',
-       secondary: '#6C757D',
-       background: '#F8F9FA',
-       text: '#212529',
+       primary: '#9966CC',
+       secondary: '#2E86DE',
+       background: '#F2F2F2',
+       text: '#9966CC',
        error: '#DC3545',
        success: '#28A745',
        warning: '#FFC107',

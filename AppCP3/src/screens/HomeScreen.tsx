@@ -19,19 +19,19 @@ type HomeScreenProps = {
 const doctors: Doctor[] = [
   {
     id: '1',
-    name: 'Dr. João Silva',
+    name: 'Dr. Wesley Gonzaga',
     specialty: 'Cardiologista',
     image: 'https://mighty.tools/mockmind-api/content/human/91.jpg',
   },
   {
     id: '2',
-    name: 'Dra. Maria Santos',
+    name: 'Dra. Joana Ribeiro',
     specialty: 'Dermatologista',
     image: 'https://mighty.tools/mockmind-api/content/human/97.jpg',
   },
   {
     id: '3',
-    name: 'Dr. Pedro Oliveira',
+    name: 'Dr. Roberto Carlos',
     specialty: 'Oftalmologista',
     image: 'https://mighty.tools/mockmind-api/content/human/79.jpg',
   },

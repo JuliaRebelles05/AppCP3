@@ -39,13 +39,13 @@ interface Doctor {
 const availableDoctors: Doctor[] = [
   {
     id: '1',
-    name: 'Dr. João Silva',
+    name: 'Dr. Wesley Gonzaga',
     specialty: 'Cardiologia',
     image: 'https://randomuser.me/api/portraits/men/1.jpg',
   },
   {
     id: '2',
-    name: 'Dra. Maria Santos',
+    name: 'Dra. Joana Ribeiro',
     specialty: 'Pediatria',
     image: 'https://randomuser.me/api/portraits/women/1.jpg',
   },

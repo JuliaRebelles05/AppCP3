@@ -75,7 +75,7 @@ const LoginScreen: React.FC = () => {
       </Text>
       <Text style={styles.credentials}>
         Admin: admin@example.com / 123456{'\n'}
-        Médicos: joao@example.com, maria@example.com, pedro@example.com / 123456
+        Médicos: wesley.gonzaga@example.com, joana.ribeiro@example.com, roberto.carlos@example.com / 123456
       </Text>
     </Container>
   );
